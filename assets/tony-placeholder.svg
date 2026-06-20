@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tony 講師照片佔位圖</title>
+  <desc id="desc">Tony 照片尚未提供，請替換為正式照片。</desc>
+  <rect width="900" height="900" rx="64" fill="#eaf6fd"/>
+  <circle cx="450" cy="330" r="150" fill="#f2c9a5"/>
+  <path d="M240 800c36-174 139-256 210-256s174 82 210 256" fill="#7bbde8"/>
+  <path d="M300 324c16-122 96-178 168-170 72 9 126 70 132 170-76-38-154-40-300 0z" fill="#4a3528"/>
+  <text x="450" y="730" text-anchor="middle" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="56" font-weight="800" fill="#4a3528">Tony</text>
+  <text x="450" y="790" text-anchor="middle" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="30" fill="#4a3528">照片待替換</text>
+</svg>

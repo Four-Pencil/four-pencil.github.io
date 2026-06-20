@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">四枝鉛筆標誌佔位圖</title>
+  <desc id="desc">柔和色彩的四枝鉛筆標誌佔位圖，請替換為正式標誌。</desc>
+  <rect width="512" height="512" rx="112" fill="#fff8ea"/>
+  <circle cx="406" cy="106" r="34" fill="#9fd6b1"/>
+  <circle cx="111" cy="405" r="44" fill="#f7cf5f"/>
+  <g transform="translate(116 86) rotate(-10 140 170)">
+    <rect x="18" y="32" width="54" height="270" rx="22" fill="#f49b5f"/>
+    <polygon points="18,302 72,302 45,354" fill="#7b5b43"/>
+    <polygon points="34,324 56,324 45,354" fill="#263238"/>
+    <rect x="18" y="32" width="54" height="52" rx="20" fill="#f7cf5f"/>
+    <rect x="92" y="16" width="54" height="286" rx="22" fill="#7bbde8"/>
+    <polygon points="92,302 146,302 119,354" fill="#7b5b43"/>
+    <polygon points="108,324 130,324 119,354" fill="#263238"/>
+    <rect x="92" y="16" width="54" height="52" rx="20" fill="#bda7e8"/>
+    <rect x="166" y="44" width="54" height="258" rx="22" fill="#bda7e8"/>
+    <polygon points="166,302 220,302 193,354" fill="#7b5b43"/>
+    <polygon points="182,324 204,324 193,354" fill="#263238"/>
+    <rect x="166" y="44" width="54" height="52" rx="20" fill="#9fd6b1"/>
+    <rect x="240" y="24" width="54" height="278" rx="22" fill="#f7cf5f"/>
+    <polygon points="240,302 294,302 267,354" fill="#7b5b43"/>
+    <polygon points="256,324 278,324 267,354" fill="#263238"/>
+    <rect x="240" y="24" width="54" height="52" rx="20" fill="#f49b5f"/>
+  </g>
+  <path d="M115 118c34-29 83-44 130-39 47 5 89 29 116 66" fill="none" stroke="#7bbde8" stroke-width="12" stroke-linecap="round" stroke-dasharray="2 26"/>
+</svg>

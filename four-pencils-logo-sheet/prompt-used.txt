@@ -1,0 +1,7 @@
+Using the provided reference image, focus only on the left-middle logo concept (second row, first column): four vertical colored pencils with architectural landmark tops, above a bilingual wordmark reading 四枝鉛筆 and FOUR PENCILS.
+
+Create a polished logo sheet with 4 cohesive logo lockups in a 2x2 grid. Preserve the core identity: four pencils, muted sage green, warm rust orange, slate blue, and golden ochre palette, clean hand-drawn educational brand style, minimal ink outlines, refined balanced spacing, bilingual text below each mark.
+
+Each cell should contain one complete logo variation: primary stacked logo, icon-only pencil landmark mark, horizontal lockup, simplified small-size lockup.
+
+Solid #FF00FF magenta background across the entire sheet for chroma-key removal. Exact 2x2 grid composition, generous safe margins, no element crosses cell boundaries, consistent scale, centered in each cell, crisp readable lettering, no shadows, no mockups, no texture outside the logo art.

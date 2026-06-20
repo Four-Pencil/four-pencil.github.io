@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">松本講師照片佔位圖</title>
+  <desc id="desc">松本照片尚未提供，請替換為正式照片。</desc>
+  <rect width="900" height="900" rx="64" fill="#f5effd"/>
+  <circle cx="450" cy="330" r="150" fill="#f2c9a5"/>
+  <path d="M242 800c38-174 138-256 208-256s170 82 208 256" fill="#bda7e8"/>
+  <path d="M298 340c-6-116 74-190 152-190s158 74 152 190c-60-78-217-84-304 0z" fill="#4a3528"/>
+  <text x="450" y="730" text-anchor="middle" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="56" font-weight="800" fill="#4a3528">松本</text>
+  <text x="450" y="790" text-anchor="middle" font-family="Noto Sans TC, Microsoft JhengHei, sans-serif" font-size="30" fill="#4a3528">照片待替換</text>
+</svg>
